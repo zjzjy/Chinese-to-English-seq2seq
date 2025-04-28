@@ -44,8 +44,7 @@ pandas>=1.0.0
 1. 克隆本仓库：
 
 ```bash
-git clone <仓库URL>
-cd <仓库目录>
+git clone https://github.com/zjzjy/Chinese-to-English-seq2seq.git
 ```
 
 2. 安装依赖：
